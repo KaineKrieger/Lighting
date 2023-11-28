@@ -1786,7 +1786,7 @@ GameObject:
   - component: {fileID: 614064706}
   - component: {fileID: 614064705}
   m_Layer: 0
-  m_Name: Directional Light (1)
+  m_Name: Parkway light 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1803,7 +1803,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0, g: 0.05962324, b: 1, a: 1}
   m_Intensity: 3
   m_Range: 34.48374
   m_SpotAngle: 31.7
@@ -1862,7 +1862,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 614064704}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.045, y: -0.404, z: 30.58}
+  m_LocalPosition: {x: 3.15, y: -0.404, z: 30.58}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4082,7 +4082,7 @@ GameObject:
   - component: {fileID: 1620091103}
   - component: {fileID: 1620091102}
   m_Layer: 0
-  m_Name: Directional Light
+  m_Name: Parkway light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4099,7 +4099,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.81355953, g: 0, b: 1, a: 1}
   m_Intensity: 3
   m_Range: 34.48374
   m_SpotAngle: 31.7
@@ -4158,7 +4158,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1620091101}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.5, y: -0.36, z: 19.77}
+  m_LocalPosition: {x: -3.56, y: -0.4, z: 19.88}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
